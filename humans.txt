@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    BB8 bbogaczyk@test.com  @bb8
 
 # THANKS
 
