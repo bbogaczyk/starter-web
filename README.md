@@ -20,4 +20,4 @@ Please for this repository and the issue Pull Request for review.
 
 ### Copyright
 
-2022 Git. Training
+2022 Git. Training. All right reserved.
